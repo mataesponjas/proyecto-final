@@ -1,0 +1,27 @@
+#h1po{
+    background-color: rgb(114, 19, 19);
+    display: flex;
+flex-direction: column;
+align-items: center;
+max-width: 512px;
+min-height: fit-content;
+padding: 2rem;
+
+}
+#esobrad{
+    background-color:crimson;
+    max-width: 200ex;
+    max-height: 70ex;
+    min-width: 200ex;
+    min-width: 70ex;
+}
+#esobrad2{
+    background-color: crimson;
+    max-width: 100ex;
+    max-height: 70ex;
+    min-width: 100ex;
+    min-width: 70ex;
+}
+#colores{
+    color: red;
+}
